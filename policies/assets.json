@@ -12,7 +12,7 @@
         }, 
         "displayname": "biochemistry_lab.png", 
         "filename": "asset-v1:Amrita-University+BIOTECH01+Anytime+type@asset+block@biochemistry_lab.png", 
-        "import_path": null, 
+        "import_path": "biochemistry_lab.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
