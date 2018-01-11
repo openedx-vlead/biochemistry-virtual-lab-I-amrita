@@ -3,21 +3,21 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "BIOTECH01", 
+            "course": "biotech01", 
             "name": "biochemistry_lab.png", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "biochemistry_lab.png", 
-        "filename": "asset-v1:Amrita-University+BIOTECH01+Anytime+type@asset+block@biochemistry_lab.png", 
+        "filename": "asset-v1:Virtual-Labs+biotech01+Anytime+type@asset+block@biochemistry_lab.png", 
         "import_path": "biochemistry_lab.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "BIOTECH01", 
+            "Virtual-Labs", 
+            "biotech01", 
             "thumbnail", 
             "biochemistry_lab-png.jpg", 
             null
